@@ -1,4 +1,4 @@
-package com.example.oppo_launcher
+package com.example.oppo_color_os_launcher
 
 import io.flutter.embedding.android.FlutterActivity
 

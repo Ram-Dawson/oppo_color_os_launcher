@@ -1,8 +1,6 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.oppo_launcher">
-    <uses-permission android:name="android.permission.CALL_PHONE"/>
-   <application
-        android:label="Oppo ColorOS Launcher"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:label="oppo_color_os_launcher"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -24,9 +22,6 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
-                <!-- codes for a launcher -->
-				<category android:name="android.intent.category.HOME" />
-				<category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
         <!-- Don't delete the meta-data below.

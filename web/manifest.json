@@ -1,6 +1,6 @@
 {
-    "name": "oppo_launcher",
-    "short_name": "oppo_launcher",
+    "name": "oppo_color_os_launcher",
+    "short_name": "oppo_color_os_launcher",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
